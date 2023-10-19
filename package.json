@@ -1,0 +1,28 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armurox/my-electron-app.git"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "application",
+    "app"
+  ],
+  "author": "Arman Jasuja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armurox/my-electron-app.git/issues"
+  },
+  "homepage": "https://github.com/armurox/my-electron-app.git#readme",
+  "devDependencies": {
+    "electron": "^27.0.1"
+  }
+}
